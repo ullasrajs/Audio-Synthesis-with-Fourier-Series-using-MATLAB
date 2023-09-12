@@ -1,4 +1,4 @@
-# Audio-Synthesis-with-Fourier-Series-using-MATLAB
+Audio-Synthesis-with-Fourier-Series-using-MATLAB
 This repository can be used to generate Audio Waves or signals with the  concept of Fourier Series. 
 
 Audio synthesis is a fundamental aspect of music production, sound design, and multimedia applications, involving the creation of complex sound waves from simpler components. Among the various techniques available, Fourier series analysis and synthesis stand as a cornerstone in understanding and generating a wide array of audio signals. The Fourier series provides a powerful mathematical framework for decomposing periodic waveforms into their constituent harmonic components, allowing for an insightful exploration of sound structure. This paper aims to delve into the principles, methodologies, and applications of audio synthesis through Fourier series, highlighting its significance in capturing the essence of diverse sounds and shaping the sonic landscape. By examining both the theoretical foundations and practical implementations, this study sheds light on the enduring relevance of Fourier-based audio synthesis techniques.
